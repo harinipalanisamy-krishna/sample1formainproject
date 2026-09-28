@@ -1,0 +1,7 @@
+streamlit
+ultralytics
+opencv-python-headless
+mediapipe==0.10.14
+pandas
+imageio-ffmpeg
+numpy<2
